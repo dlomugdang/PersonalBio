@@ -1,3 +1,7 @@
 body{
   background-color: lightsteelblue;
+  background-image: url(https://ih0.redbubble.net/image.120845744.5850/sticker,420x460-pad,420x460,f8f8f8.u4.jpg);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
 }
