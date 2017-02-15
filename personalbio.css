@@ -3,4 +3,5 @@ body{
   background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/New_England_Patriots_logo.svg/320px-New_England_Patriots_logo.svg.png);
   background-repeat: no-repeat;
   background-position: right top;
+  background-attachment: fixed;
 }
