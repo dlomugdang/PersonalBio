@@ -5,3 +5,17 @@ body{
   background-position: right top;
   background-attachment: fixed;
 }
+
+nav-tab,div{
+  background-color: yellow;
+  border-style: solid;
+}
+
+navigation:link{
+  text-decoration: none;
+  color: red;
+}
+
+div:hover{
+  background-color: palevioletred;
+}
