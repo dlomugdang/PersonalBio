@@ -7,7 +7,7 @@ body{
 }
 
 nav-tab,div{
-  background-color: yellow;
+  background-color: white;
   border-style: solid;
 }
 
@@ -18,4 +18,8 @@ navigation:link{
 
 div:hover{
   background-color: palevioletred;
+}
+
+div p{
+  background-color: green;
 }
